@@ -33,11 +33,6 @@
 <img src="https://user-images.githubusercontent.com/67874400/197307312-cee67602-c555-42a3-ab08-6c3eed402a0d.jpg" />
 </div>
 <script>
-    // Edited by: Brett McElvain
-    // Date: 10/13/2022
-    // Course: INFOTC1000
-    // Challenge: FizzBuzz in JavaScript in Browser
-    
     function fizzbuzz() {
         var display = document.getElementById('display');
         var displayHTML = "";

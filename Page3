@@ -2,10 +2,31 @@
 <html>
 
 <header>
-    <h1>Page1</h1>
+    <h1>Page3</h1>
 </header>
 
 <body>
+  <nav>
+    <ul>
+      <li><a href="#columbiaClass">Columbia Class</a></li>
+      <li><a href="#subclasses">Submarine Classes</a></li>
+    </ul>
+  </nav>
+  <div id="columbiaClass">
+    <h2>Columbia Class</h2>
+    <p>The <strong>Columbia-class submarine</strong> (formerly known as the Ohio Replacement Submarine and SSBN-X Future Follow-on Submarine) is an upcoming class of nuclear submarines designed to replace the Ohio-class ballistic missile submarines in the United States Navy.[6] The first submarine officially began construction on 1 October 2020,[7] and is scheduled to enter service in <em>2031</em>..</p>
+    <a href="https://en.wikipedia.org/wiki/Columbia-class_submarine"_blank">Learn More</a>
+  </div>
+  <div id="subclasses">
+    <h2>Submarine Classes</h2>
+    <h3>Types of fast-attack submarines in use today by the US Navy:</h3>
+    <ol>
+      <li>Los Angeles Class</li>
+      <li>Virginia Class</li>
+      <li>Seawolf Class</li>
+      <li>Columbia Class</li>
+    </ol>
+  </div>
   <a href="https://github.com/MackleBJ/MidtermProject/blob/main/README.md" target="_blank">Home Page</a>
   <br>
   <a href="https://github.com/MackleBJ/MidtermProject/blob/main/Page1" target="_blank">Page1</a>

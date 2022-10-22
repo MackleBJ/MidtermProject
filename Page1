@@ -6,6 +6,27 @@
 </header>
 
 <body>
+  <nav>
+    <ul>
+      <li><a href="#viginiaClass">Viginia Class</a></li>
+      <li><a href="#subclasses">Submarine Classes</a></li>
+    </ul>
+  </nav>
+  <div id="viginiaClass">
+    <h2>Virginia Class</h2>
+    <p>The <strong>Virginia Class attack submarine</strong> is the U.S. Navy’s newest undersea warfare platform and incorporates the latest in stealth, intelligence gathering and weapons systems technology. Attack submarines are designed to seek and destroy enemy submarines and surface ships; project power ashore with <em>Tomahawk cruise missiles</em> and Special Operation Forces; carry out Intelligence, Surveillance, and Reconnaissance (ISR) missions; support battle group operations; and engage in mine warfare.</p>
+    <a href="https://www.military.com/equipment/virginia-class-attack-submarine-ssn" target="_blank">Learn More</a>
+  </div>
+  <div id="subclasses">
+    <h2>Submarine Classes</h2>
+    <h3>Types of fast-attack submarines in use today by the US Navy:</h3>
+    <ol>
+      <li>Los Angeles Class</li>
+      <li>Virginia Class</li>
+      <li>Seawolf Class</li>
+      <li>Columbia Class</li>
+    </ol>
+  </div>
   <a href="https://github.com/MackleBJ/MidtermProject/blob/main/README.md" target="_blank">Home Page</a>
   <br>
   <a href="https://github.com/MackleBJ/MidtermProject/blob/main/Page2" target="_blank">Page2</a>

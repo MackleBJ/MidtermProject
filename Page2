@@ -6,6 +6,27 @@
 </header>
 
 <body>
+  <nav>
+    <ul>
+      <li><a href="#seawolfClass">Seawolf Class</a></li>
+      <li><a href="#subclasses">Submarine Classes</a></li>
+    </ul>
+  </nav>
+  <div id="seawolfClass">
+    <h2>Seawolf Class</h2>
+    <p>The <strong>Seawolf class</strong> is a class of nuclear-powered, fast attack submarines (SSN) in service with the United States Navy. The class was the intended successor to the Los Angeles class, and design work began in 1983.[9] A fleet of 29 submarines was to be built over a ten-year period, but that was reduced to 12 submarines. The end of the Cold War and budget constraints led to the cancellation of any further additions to the fleet in 1995, leaving the Seawolf class limited to just <em>three boats</em>.</p>
+    <a href="https://en.wikipedia.org/wiki/Seawolf-class_submarine"_blank">Learn More</a>
+  </div>
+  <div id="subclasses">
+    <h2>Submarine Classes</h2>
+    <h3>Types of fast-attack submarines in use today by the US Navy:</h3>
+    <ol>
+      <li>Los Angeles Class</li>
+      <li>Virginia Class</li>
+      <li>Seawolf Class</li>
+      <li>Columbia Class</li>
+    </ol>
+  </div>
   <a href="https://github.com/MackleBJ/MidtermProject/blob/main/README.md" target="_blank">Home Page</a>
   <br>
   <a href="https://github.com/MackleBJ/MidtermProject/blob/main/Page1" target="_blank">Page1</a>
